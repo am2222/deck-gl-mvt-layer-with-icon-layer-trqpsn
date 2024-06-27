@@ -1,0 +1,22 @@
+{
+  "name": "js-quoerg",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "7.14.0",
+    "@deck.gl/core": "8.4.16",
+    "@deck.gl/geo-layers": "8.4.16",
+    "@deck.gl/layers": "8.4.16",
+    "@deck.gl/mesh-layers": "8.4.16",
+    "@loaders.gl/core": "2.3.13",
+    "@luma.gl/core": "8.4.5",
+    "@luma.gl/gltools": "8.4.5",
+    "@luma.gl/webgl": "8.4.5",
+    "@math.gl/web-mercator": "^3.4.2",
+    "@turf/turf": "6.3.0",
+    "axios": "0.21.1",
+    "mapbox-gl": "2.2.0",
+    "math.gl": "3.4.2",
+    "turf": "3.0.14"
+  }
+}
